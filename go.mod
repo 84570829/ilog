@@ -1,4 +1,4 @@
-module itools/ilog
+module github.com/84570829/ilog
 
 go 1.17
 
